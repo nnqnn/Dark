@@ -1,0 +1,80 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/linear3"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:background="#000000"
+		android:orientation="horizontal">
+		<LinearLayout
+			android:id="@+id/linear1"
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:padding="8dp"
+			android:background="@drawable/pauseblur"
+			android:gravity="center_vertical"
+			android:orientation="vertical">
+			<TextView
+				android:id="@+id/name"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:gravity="center_vertical"
+				android:text="Dark"
+				android:textSize="60sp"
+				android:textStyle="bold"
+				android:textColor="#FFFFFF" />
+			<LinearLayout
+				android:id="@+id/linear2"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:orientation="vertical">
+				<TextView
+					android:id="@+id/play_btn"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:padding="8dp"
+					android:gravity="left|center_vertical"
+					android:text="Играть"
+					android:textSize="25sp"
+					android:textColor="#FFFFFF" />
+				<TextView
+					android:id="@+id/textview1"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:padding="8dp"
+					android:gravity="left"
+					android:text="Настройки"
+					android:textSize="25sp"
+					android:textColor="#FFFFFF" />
+				<TextView
+					android:id="@+id/about_btn"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:padding="8dp"
+					android:gravity="left|center_vertical"
+					android:text="Об авторах"
+					android:textSize="25sp"
+					android:textColor="#FFFFFF" />
+			</LinearLayout>
+			<TextView
+				android:id="@+id/version"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:paddingLeft="8dp"
+				android:paddingTop="8dp"
+				android:paddingRight="8dp"
+				android:paddingBottom="16dp"
+				android:gravity="bottom"
+				android:text="10.0"
+				android:textSize="12sp"
+				android:textColor="#FFFFFF"
+				android:layout_gravity="bottom" />
+		</LinearLayout>
+	</LinearLayout>
+</LinearLayout>

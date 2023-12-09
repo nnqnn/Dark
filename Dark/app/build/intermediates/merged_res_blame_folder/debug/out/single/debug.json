@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/raw_afterword.mp3.flat",
+        "source": "com.taptab.dark.app-main-6:/raw/afterword.mp3"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/layout_main12.xml.flat",
+        "source": "com.taptab.dark.app-main-6:/layout/main12.xml"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/layout_chapter.xml.flat",
+        "source": "com.taptab.dark.app-main-6:/layout/chapter.xml"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/drawable-xhdpi_room2.png.flat",
+        "source": "com.taptab.dark.app-main-6:/drawable-xhdpi/room2.png"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/drawable-xhdpi_back.png.flat",
+        "source": "com.taptab.dark.app-main-6:/drawable-xhdpi/back.png"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/raw_no_tresspassing.mp3.flat",
+        "source": "com.taptab.dark.app-main-6:/raw/no_tresspassing.mp3"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/raw_vid.mp4.flat",
+        "source": "com.taptab.dark.app-main-6:/raw/vid.mp4"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/drawable-xhdpi_default_image.png.flat",
+        "source": "com.taptab.dark.app-main-6:/drawable-xhdpi/default_image.png"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/raw_door_to_nightmare_sergey_eybog.mp3.flat",
+        "source": "com.taptab.dark.app-main-6:/raw/door_to_nightmare_sergey_eybog.mp3"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/drawable-xhdpi_key1_400_800.png.flat",
+        "source": "com.taptab.dark.app-main-6:/drawable-xhdpi/key1_400_800.png"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/raw_game.mp3.flat",
+        "source": "com.taptab.dark.app-main-6:/raw/game.mp3"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/layout_game_list.xml.flat",
+        "source": "com.taptab.dark.app-main-6:/layout/game_list.xml"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/drawable-xhdpi_plus_720_720_1.png.flat",
+        "source": "com.taptab.dark.app-main-6:/drawable-xhdpi/plus_720_720_1.png"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/drawable-xhdpi_act2_room2.png.flat",
+        "source": "com.taptab.dark.app-main-6:/drawable-xhdpi/act2_room2.png"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/drawable-xhdpi_room4.png.flat",
+        "source": "com.taptab.dark.app-main-6:/drawable-xhdpi/room4.png"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/raw_your_bright_side.mp3.flat",
+        "source": "com.taptab.dark.app-main-6:/raw/your_bright_side.mp3"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/drawable-xhdpi_background_720_288.png.flat",
+        "source": "com.taptab.dark.app-main-6:/drawable-xhdpi/background_720_288.png"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/drawable-xhdpi_room1.png.flat",
+        "source": "com.taptab.dark.app-main-6:/drawable-xhdpi/room1.png"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/layout_exit.xml.flat",
+        "source": "com.taptab.dark.app-main-6:/layout/exit.xml"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/drawable-xhdpi_logo_ic.png.flat",
+        "source": "com.taptab.dark.app-main-6:/drawable-xhdpi/logo_ic.png"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/layout_main1.xml.flat",
+        "source": "com.taptab.dark.app-main-6:/layout/main1.xml"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/drawable-xhdpi_key2_400_800.png.flat",
+        "source": "com.taptab.dark.app-main-6:/drawable-xhdpi/key2_400_800.png"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/drawable-xhdpi_act2_room1.png.flat",
+        "source": "com.taptab.dark.app-main-6:/drawable-xhdpi/act2_room1.png"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/drawable-xhdpi_per1.png.flat",
+        "source": "com.taptab.dark.app-main-6:/drawable-xhdpi/per1.png"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/raw_opendoor.mp3.flat",
+        "source": "com.taptab.dark.app-main-6:/raw/opendoor.mp3"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/layout_pause.xml.flat",
+        "source": "com.taptab.dark.app-main-6:/layout/pause.xml"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/layout_about.xml.flat",
+        "source": "com.taptab.dark.app-main-6:/layout/about.xml"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/layout_settings.xml.flat",
+        "source": "com.taptab.dark.app-main-6:/layout/settings.xml"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/drawable-xhdpi_app_icon.png.flat",
+        "source": "com.taptab.dark.app-main-6:/drawable-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/drawable-xhdpi_pauseblur.png.flat",
+        "source": "com.taptab.dark.app-main-6:/drawable-xhdpi/pauseblur.png"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/drawable-xhdpi_plus_720_720_2.png.flat",
+        "source": "com.taptab.dark.app-main-6:/drawable-xhdpi/plus_720_720_2.png"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/layout_main.xml.flat",
+        "source": "com.taptab.dark.app-main-6:/layout/main.xml"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/drawable-xhdpi_room3.png.flat",
+        "source": "com.taptab.dark.app-main-6:/drawable-xhdpi/room3.png"
+    },
+    {
+        "merged": "com.taptab.dark.app-merged_res-4:/drawable-xhdpi_act2_room3.png.flat",
+        "source": "com.taptab.dark.app-main-6:/drawable-xhdpi/act2_room3.png"
+    }
+]

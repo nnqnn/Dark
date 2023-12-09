@@ -1,0 +1,7 @@
+com.taptab.dark.app-pngs-0 /home/ooq/Android/Dark/app/build/generated/res/pngs/debug
+com.taptab.dark.app-resValues-1 /home/ooq/Android/Dark/app/build/generated/res/resValues/debug
+com.taptab.dark.app-packageDebugResources-2 /home/ooq/Android/Dark/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.taptab.dark.app-packageDebugResources-3 /home/ooq/Android/Dark/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.taptab.dark.app-merged_res-4 /home/ooq/Android/Dark/app/build/intermediates/merged_res/debug
+com.taptab.dark.app-debug-5 /home/ooq/Android/Dark/app/src/debug/res
+com.taptab.dark.app-main-6 /home/ooq/Android/Dark/app/src/main/res

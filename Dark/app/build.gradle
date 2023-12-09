@@ -1,0 +1,29 @@
+plugins {
+	id 'com.android.application'
+}
+
+android {
+	compileSdkVersion 28
+	
+	useLibrary 'org.apache.http.legacy'
+	namespace 'com.taptab.dark'
+	
+	defaultConfig {
+		applicationId "com.taptab.dark"
+		minSdkVersion 21
+		targetSdkVersion 28
+		versionCode 10
+		versionName "10.0"
+	}
+	
+	buildTypes {
+		release {
+			minifyEnabled false
+			proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+		}
+	}
+}
+
+dependencies {
+	implementation fileTree(dir: 'libs', include: ['*.jar'])
+}
